@@ -1,0 +1,11 @@
+#DataThief C:\Users\Keisuke\Google Drive\0 Paper\59 T-V (Temperature and cell size)\Data\Weisse1998\D\Mu.PNG Wednesday 23-Jan-2019 2:18:56 PM
+4.9897, -3.2553e-3
+4.9794, -0.0502
+9.9733, 0.4306
+9.9733, 0.3479
+14.967, 0.8456
+14.9774, 0.8117
+14.9774, 0.6736
+24.9548, 0.9501
+24.9445, 0.9238
+24.9445, 0.8477
